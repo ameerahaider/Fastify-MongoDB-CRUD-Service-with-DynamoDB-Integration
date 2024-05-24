@@ -12,7 +12,6 @@ This project implements a Fastify server with CRUD (Create, Read, Update, Delete
   - [Testing](#testing)
     - [Test Timeout](#test-timeout)
   - [Project Structure](#project-structure)
-  - [Environment Variables](#environment-variables)
   - [Additional Information](#additional-information)
 
 ## Installation
