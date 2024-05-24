@@ -105,17 +105,6 @@ fastify-mongodb-crud/
 - **src/server.js**: Initializes and starts the Fastify server.
 - **tests**: Contains Jest test files.
 
-## Environment Variables
-
-Ensure the `.env` file is set up with the correct values before running the server or tests. The `.env` file should contain the following variables:
-
-```env
-MONGODB_URI=mongodb://localhost:27017/locations
-AWS_REGION=your-aws-region
-AWS_ACCESS_KEY_ID=your-aws-access-key-id
-AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key
-```
-
 ## Additional Information
 
 - MongoDB is used for primary data storage.
